@@ -27,8 +27,8 @@ export const SKILLS = [
 ];
 
 export const CONTACT_INFO = {
-  email: "contact@monportfolio.fr",
-  phone: "+33 6 12 34 56 78",
-  linkedin: "linkedin.com/in/monprofil",
-  github: "github.com/monprofil"
+  email: "contact.julien.sicard@gmail.com",
+  phone: "+33 7 83 19 92 69",
+  linkedin: "https://www.linkedin.com/in/julien-sicard-446a81221/",
+  github: "https://github.com/JulienSic"
 };

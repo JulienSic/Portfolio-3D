@@ -77,7 +77,7 @@ const Projects: React.FC = () => {
                     <Github size={16} /> Code
                   </a>
                   <a href={project.link} className="flex items-center text-sm text-indigo-400 hover:text-indigo-300 transition-colors gap-1 font-medium">
-                    Live Demo <ExternalLink size={16} />
+                    Github Link <ExternalLink size={16} />
                   </a>
                 </div>
               </div>

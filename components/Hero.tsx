@@ -34,12 +34,12 @@ const Hero: React.FC = () => {
 
             <p className="text-gray-400 text-lg md:text-xl max-w-lg mb-8 leading-relaxed">
               Je conçois des expériences web immersives et performantes. 
-              Passionné par l'écosystème React et l'architecture 3D.
+              Passionné par l'écosystème React, Angular et l'architecture 3D.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">
               <a 
-                href="#projects"
+                href="./#projects"
                 className="group relative px-8 py-3 bg-white text-black font-bold rounded-lg overflow-hidden transition-all hover:scale-105 active:scale-95"
               >
                 <div className="absolute inset-0 w-full h-full bg-gradient-to-r from-indigo-500 via-purple-500 to-indigo-500 opacity-0 group-hover:opacity-10 transition-opacity" />
@@ -49,7 +49,8 @@ const Hero: React.FC = () => {
               </a>
 
               <a 
-                href="#contact"
+                href="/assets/doc/SICARD Julien CV Alternance Fullstack.pdf"
+                download
                 className="px-8 py-3 border border-white/20 text-white font-medium rounded-lg hover:bg-white/5 transition-all flex items-center justify-center gap-2 hover:border-white/40"
               >
                 <Download size={18} />

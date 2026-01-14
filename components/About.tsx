@@ -15,7 +15,7 @@ const About: React.FC = () => {
           <div className="relative group">
             <div className="absolute -inset-1 bg-gradient-to-r from-indigo-500 to-purple-600 rounded-2xl blur opacity-25 group-hover:opacity-50 transition duration-1000 group-hover:duration-200"></div>
             <div className="relative w-full aspect-square rounded-2xl overflow-hidden border border-white/10 bg-gray-900">
-               <img src="https://picsum.photos/800/800?grayscale" alt="Portrait" className="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+               <img src="/assets/img/ProfileImage.jpg" alt="Portrait" className="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
             </div>
           </div>
 
