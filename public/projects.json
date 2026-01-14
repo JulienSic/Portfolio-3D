@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "My Three.js Portfolio Website",
+    "title": "Mon Portfolio Three.js",
     "timeline": "Janvier 2025",
     "description": "Création de mon portfolio, avec React, Three.js, Typescript, et Tailwindcss afin de monter en compétences",
     "descDetail": "Création d'un site web Front avec React et Three.js afin de monter en compétence, réalisé sur une période de deux semaines. j'ai dans un premier temps créé un JSON pour simuler des requêtes API, pour développer un backend, pour une architecture Rest.",
@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "title": "Joblife",
+    "title": "Joblife, la plateforme de job board",
     "timeline": "5 Octobre 2025 - 29 Octobre 2025",
     "description": "Création d'un site de job Board, avec Angular standalone, Express.js, MySQL, Tailwindcss.",
     "descDetail": "Création d'un site Job Board, Front avec Angular standalone et tailwindCSS, et Back avec Express.js, sequelize et MySQL. Le projet a été réalisé en groupe de 3 sur une période de 2 semaines. On a utilisé Trello pour le suivi, et Github pour metter en commun le code.",
@@ -37,7 +37,7 @@
   },
   {
     "id": 4,
-    "title": "My First Portfolio Website",
+    "title": "Mon Premier Portfolio Angular",
     "timeline": "Novembre 2025 - Décembre 2025",
     "description": "Création de mon portfolio, avec Angular standalone, Typescript, et Tailwindcss afin de montrer mes compétences",
     "descDetail": "Création d'un site web Front avec Angular standalone afin de monter en compétence, réalisé sur une période de 1 mois, avec réalisation de maquette Figma. j'ai dans un premier temps créé un JSON pour simuler des requêtes API, pour développer un backend, pour une architecture Rest.",
