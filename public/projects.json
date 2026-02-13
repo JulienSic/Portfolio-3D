@@ -1,6 +1,18 @@
 [
   {
     "id": 1,
+    "title": "Ma première messagerie instantanée",
+    "timeline": "Janvier 2026 - Février 2026",
+    "description": "Création d'une application dockerisée de chat en temps réel, avec Rust, React, Postgre, SocketIO et Redis",
+    "descDetail": "Création d'un site web Front en Next.js, en utilisant Chadcn et Tailwind.css, et le Back avec Rust, Axum, SocketIO, et Redis/Postgre pour la database. Le projet était en groupe de 4, sur 1 semaine et demi. On a utilisé Trello pour le suivi des tâches, et la méthode Agile, et Figma pour les maquettes de l'UI.",
+    "thumbnail": "assets/img/RTC/MainPage.png",
+    "image1": "assets/img/RTC/ServerPage.png",
+    "image2": "assets/img/RTC/JoiningPage.png",
+    "tags": ["React", "Next.js", "Tailwindcss", "Chadcn", "Rust", "Axum", "SocketIo", "Redis", "Postgre", "Docker"],
+    "link": "https://github.com/JulienSic/Public_RTC_Web_App"
+  },
+  {
+    "id": 2,
     "title": "Mon Portfolio Three.js",
     "timeline": "Janvier 2025",
     "description": "Création de mon portfolio, avec React, Three.js, Typescript, et Tailwindcss afin de monter en compétences",
@@ -12,7 +24,7 @@
     "link": "https://github.com/JulienSic/Portfolio3D"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Joblife, la plateforme de job board",
     "timeline": "5 Octobre 2025 - 29 Octobre 2025",
     "description": "Création d'un site de job Board, avec Angular standalone, Express.js, MySQL, Tailwindcss.",
@@ -24,7 +36,7 @@
     "link": "https://github.com/JulienSic/JobLife"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Trouble in Heaven - Jeu en 2D",
     "timeline": "2 Novembre 2025 - 23 Novembre 2025",
     "description": "Réalisation d'un jeu 2D en java, avec LibGDX",
@@ -36,7 +48,7 @@
     "link": "https://github.com/JulienSic/Trouble-in-Heaven---2D-Game"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Mon Premier Portfolio Angular",
     "timeline": "Novembre 2025 - Décembre 2025",
     "description": "Création de mon portfolio, avec Angular standalone, Typescript, et Tailwindcss afin de montrer mes compétences",
@@ -45,18 +57,6 @@
     "image1": "assets/img/Figma.png",
     "image2": "assets/img/ProjectPage.png",
     "tags": ["Angular", "Typescript", "Tailwindcss"],
-    "link": "https://github.com/JulienSic/Portfolio"
-  },
-  {
-    "id": 5,
-    "title": "Ma première messagerie instantanée",
-    "timeline": "Janvier 2026 - Février 2026",
-    "description": "Création d'une application dockerisée de chat en temps réel, avec Rust, React, Postgre, SocketIO et Redis",
-    "descDetail": "Création d'un site web Front en Next.js, en utilisant Chadcn et Tailwind.css, et le Back avec Rust, Axum, SocketIO, et Redis/Postgre pour la database. Le projet était en groupe de 4, sur 1 semaine et demi. On a utilisé Trello pour le suivi des tâches, et la méthode Agile, et Figma pour les maquettes de l'UI.",
-    "thumbnail": "assets/img/RTC/MainPage.png",
-    "image1": "assets/img/RTC/ServerPage.png",
-    "image2": "assets/img/RTC/JoiningPage.png",
-    "tags": ["React", "Next.js", "Tailwindcss", "Chadcn", "Rust", "Axum", "SocketIo", "Redis", "Postgre", "Docker"],
     "link": "https://github.com/JulienSic/Portfolio"
   }
   
