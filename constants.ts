@@ -17,7 +17,7 @@ export const SKILLS = [
   {
     category: "Backend",
     icon: Server,
-    items: ["Node.js", "Express", "MySQL", "PostgreSQL", "PHP"]
+    items: ["Node.js", ".Net", "MySQL", "PostgreSQL", "Rust(Axum)"]
   },
   {
     category: "Soft Skills",
