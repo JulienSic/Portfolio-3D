@@ -46,6 +46,18 @@
     "image2": "assets/img/ProjectPage.png",
     "tags": ["Angular", "Typescript", "Tailwindcss"],
     "link": "https://github.com/JulienSic/Portfolio"
+  },
+  {
+    "id": 5,
+    "title": "Ma première messagerie instantanée",
+    "timeline": "Janvier 2026 - Février 2026",
+    "description": "Création d'une application dockerisée de chat en temps réel, avec Rust, React, Postgre, SocketIO et Redis",
+    "descDetail": "Création d'un site web Front en Next.js, en utilisatn Chadcn et Tailwind.css, et le Back avec Rust, Axum, SocketIO, et Redis/Postgre pour la database. Le projet était en groupe de 4, sur 1 semaine et demi. On a utilisé Trello pour le suivi des tâches, et la méthode Agile, et Figma pour les maquettes de l'UI.",
+    "thumbnail": "assets/img/RTC/MainPage.png",
+    "image1": "assets/img/RTC/ServerPage.png",
+    "image2": "assets/img/RTC/JoiningPage.png",
+    "tags": ["React", "Next.js", "Tailwindcss", "Chadcn", "Rust", "Axum", "SocketIo", "Redis", "Postgre", "Docker"],
+    "link": "https://github.com/JulienSic/Portfolio"
   }
   
 ]
